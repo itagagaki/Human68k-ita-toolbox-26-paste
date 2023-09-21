@@ -1,0 +1,6 @@
+MANIFEST       このファイル
+README         まず最初にお読み下さい
+NOTICE         版権と許諾についての告示書
+CHANGES        pasteのモデルチェンジの履歴
+paste.1        pasteのマニュアル
+paste.x        paste実行ファイル
