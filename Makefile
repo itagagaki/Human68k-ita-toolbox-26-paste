@@ -9,8 +9,8 @@ RM      = -rm -f
 INCLUDE = $(HOME)/fish/include
 
 DESTDIR   = A:/usr/ita
-BACKUPDIR = B:/paste/1.0
-RELEASE_ARCHIVE = PASTE10
+BACKUPDIR = B:/paste/1.0A
+RELEASE_ARCHIVE = PASTE10A
 RELEASE_FILES = MANIFEST README ../NOTICE CHANGES paste.1 paste.x
 
 EXTLIB = $(HOME)/fish/lib/ita.l
